@@ -19,12 +19,16 @@
 
 ## 📫 Contact Me
 
+<a href="https://juny0429.github.io/pjy-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Web%20Portfolio-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
+</a>
+
 <a href="https://velog.io/@juny_0429" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
 
 <a href="https://elastic-network-b5d.notion.site/3ec094dd396841e58d779dea79fed9de?pvs=4" target="_blank">
-  <img src="https://img.shields.io/badge/박준영%20이력서-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/박준영%20이력서-73398D?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
 <a href="https://www.notion.so/Juny-DevNote-cfb53ea770cc4828a2aad5e97b5fd968?pvs=4" target="_blank">
