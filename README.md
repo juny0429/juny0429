@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Welcome%20&fontSize=100&desc=Juny%20Github%20Profile&descSize=30&descAlignY=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Welcome%20&fontSize=70&desc=Juny%20Github%20Profile&descSize=20&descAlignY=90&animation=twinkling)
 
 <br>
 
-## 🛠️ Tech Stack 🛠️
+## 🛠️ Tech Stack
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
@@ -17,7 +17,7 @@
 <br>
 <br>
 
-## 📫 Contact Me 📫
+## 📫 Contact Me
 
 <a href="https://velog.io/@juny_0429" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
@@ -35,7 +35,13 @@
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
 
-##
+<br>
+<br>
+
+## 🥑 Introduce
+
+안녕하세요! 프론트엔드 개발자가 되고 싶은 박준영입니다.
+저의 Github를 봐주셔서 감사합니다.
 
 
 
