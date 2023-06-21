@@ -31,10 +31,6 @@
   <img src="https://img.shields.io/badge/Notion%20DevNote-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
-<a href="https://velog.io/@juny_0429" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-</a>
-
 <br>
 <br>
 
