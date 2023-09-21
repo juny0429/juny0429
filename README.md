@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
 
-<a href="https://elastic-network-b5d.notion.site/3ec094dd396841e58d779dea79fed9de?pvs=4" target="_blank">
+<a href="https://www.notion.so/juny0429/3ec094dd396841e58d779dea79fed9de" target="_blank">
   <img src="https://img.shields.io/badge/박준영%20이력서-73398D?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
